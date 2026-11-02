@@ -2,7 +2,7 @@
 
 Clickable prototype of a self-workout AI app within Shvasa. It is a single HTML file (`index.html`) that shows the app inside a phone shell, with a side panel for controls, a flow map and design notes.
 
-> **Status:** prototype for product review. Nothing here is production code or live data. "Shvasa Solo" is the working name in the file and is not confirmed. Values shown as `[in brackets]` in the prototype are placeholders that have not been confirmed.
+> **Status:** prototype, not production code. Nothing here is live data. "Shvasa Solo" is a working name. Values shown as `[in brackets]` in the prototype are placeholders.
 
 ## Open the prototype
 
@@ -53,11 +53,3 @@ Connecting a device goes through a single permissions page. After sync there is 
 - Hindi (removed for now).
 - Custom workouts and pre-recorded mini-courses (removed).
 - Real video generation, payments, notifications, calendar writes and wearable syncing. These are simulated screens only.
-
-## Related document
-
-The product requirements are in the separate **Shvasa AI Rebuild PRD** (PDF). It is not stored in this repo. At the time of writing its welcome-workout section is out of date compared with this prototype, and the prototype takes precedence.
-
-## Updating
-
-Edit `index.html` in place and push to `main`. GitHub Pages serves the root of `main`, so the live link updates after the next build.
